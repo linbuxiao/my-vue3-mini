@@ -1,7 +1,7 @@
 
 import { h } from './lib/createVNode.js'
 // import { ref } from './node_modules/@vue/reactivity/dist/reactivity.esm-browser.js'
-import { ref } from './node_modules/@vue/reactivity/dist/reactivity.esm-browser.js'
+import { ref } from './reactivity.esm-browser.prod.js'
 
 export default {
   name: "App",
